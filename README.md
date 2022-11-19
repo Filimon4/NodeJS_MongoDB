@@ -1,4 +1,4 @@
-# Simple-Backend-App
+# NodeJS_MongoDB
 It's a small server-side app with a connection to mongo DB (CRUD)
 
 ## Installation
